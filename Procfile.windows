@@ -1,0 +1,1 @@
+web: python tg.py
