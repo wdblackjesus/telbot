@@ -1,8 +1,8 @@
 #config file bzd_channel_bot
 #ver_0.1
 
-_TOKEN = Токен бота string
+_TOKEN = "514947066:AAHjBq9IIENMyG0hAWXX2pvDJ7mBN7JdHq8";
 
-_FATHERid = Id Хозяина бота integer
+_FATHERid = 416097504;
 
-_databaseName = Имя базы данных string
+_databaseName = "ololo";
